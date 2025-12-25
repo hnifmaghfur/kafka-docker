@@ -161,14 +161,6 @@ docker-compose down -v
 docker-compose up -d
 ```
 
-## 📝 Alternative Configurations
-
-This repository includes several docker-compose variants:
-
-- `docker-compose.yml` - Full setup with Kafka UI and explicit networking
-- `docker-compose.yml-2` - Minimal setup without Kafka UI
-- `docker-compose.yml-3` - Setup with Kafka UI but without explicit network definition
-
 ## 🔍 Useful Commands
 
 ### View Logs
